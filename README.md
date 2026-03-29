@@ -59,6 +59,9 @@ até técnicas avançadas de visão computacional.
 ## 👤 Autor
 
 Kevin C. Borges
+
 E-mail para contato: kevinborges.estagio@gmail.com
+
 LinkedIn: www.linkedin.com/in/kevin-cordeiro-borges-280aa7218
+
 Engenharia de Computação — UEFS
